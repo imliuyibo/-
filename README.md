@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" class=""><head>
     <meta charset="UTF-8">
@@ -171,7 +172,3 @@
                 <input type="text" id="weixin-url">
                 <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
             </div></div></body></html>
-    </div>
-</body>
-
-</html>
